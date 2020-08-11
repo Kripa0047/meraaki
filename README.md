@@ -6,12 +6,18 @@ from API and also can create new post.
 
 Commands to run the app:
 
-git clone https://github.com/Kripa0047/meraaki.git
+--> git clone https://github.com/Kripa0047/meraaki.git
 
-npm install
+--> npm install
 
-npm run serve
+--> npm run serve
 
 API used for the application:
 
-https://jsonplaceholder.typicode.com/
+--> https://jsonplaceholder.typicode.com/
+
+This app have a cool looking UI.
+
+Works on ofline mode.
+
+App URL : https://meraakiposts.netlify.app/
