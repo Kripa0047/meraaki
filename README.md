@@ -6,9 +6,11 @@ from API and also can create new post.
 
 Commands to run the app:
 
-> git clone https://github.com/Kripa0047/meraaki.git
-> npm install
-> npm run serve
+git clone https://github.com/Kripa0047/meraaki.git
+
+npm install
+
+npm run serve
 
 API used for the application:
 
