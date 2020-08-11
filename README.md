@@ -1,24 +1,13 @@
-# meraaki
+Hi, I am Kripa and this is my the first vue app.
+Let me explain about the app a bit.
 
-## Project setup
-```
-npm install
-```
+This is a demo application, where you can get posts and post details
+from API and also can create new post.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Commands to run the app:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+>> npm install
+>> npm run serve
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+API used for the application:
+>> https://jsonplaceholder.typicode.com/
